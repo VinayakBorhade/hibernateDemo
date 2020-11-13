@@ -1,7 +1,7 @@
 # hibernateDemo
 Connecting Jersey rest api with mysql db using hibernate jpa
 
-create a persistence.xml file in resources/META-INF directory of src for db credentials
+create a persistence.xml file in src/main/resources/META-INF directory of src for db credentials
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
